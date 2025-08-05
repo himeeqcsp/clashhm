@@ -1,4 +1,4 @@
-# NAME: roblox,PayPal，whatsapp，discord, line,
+# NAME: roblox,PayPal，whatsapp，discord, line,promail
 
 #roblox
 DOMAIN-SUFFIX,rbxcdn.com
@@ -329,4 +329,11 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
+
+#protonmail
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
 
