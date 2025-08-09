@@ -717,6 +717,7 @@ PROCESS-NAME,com.google.android.gms
 PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.play.games
 PROCESS-NAME,BackupandSync
+DOMAIN-KEYWORD,google
 
 # TOTAL: voice
 DOMAIN,lens.l.google.com
