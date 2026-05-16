@@ -2,6 +2,9 @@
 
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,poe
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,perplexity.ai
 
 #grok
 DOMAIN-SUFFIX,grok.com
