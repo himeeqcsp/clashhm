@@ -1,0 +1,15 @@
+# NAME: roblox,promail
+
+#roblox
+DOMAIN-SUFFIX,rbxcdn.com
+DOMAIN-KEYWORD,roblox
+USER-AGENT,Roblox*
+
+#protonmail
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+
+DOMAIN-KEYWORD,clubsim
