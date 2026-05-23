@@ -2,15 +2,23 @@
 
 #蜜蜂云汇
 DOMAIN-KEYWORD,feedov
+DOMAIN-SUFFIX,feedov.com
+
 
 DOMAIN-KEYWORD,bochk
+DOMAIN-SUFFIX,bochk.com
 DOMAIN-KEYWORD,airstarbank
+DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-KEYWORD,elebank
+DOMAIN-SUFFIX,elebank.com
 DOMAIN-KEYWORD,antbank
-DOMAIN-KEYWORD,alipay
+DOMAIN-SUFFIX,antbank.com
 DOMAIN-KEYWORD,welab
+DOMAIN-SUFFIX,welab.com
 DOMAIN-KEYWORD,fusionbank
+DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-KEYWORD,cncbinternational
+DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
 
