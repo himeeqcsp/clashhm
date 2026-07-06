@@ -13,3 +13,15 @@ DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
 
 DOMAIN-KEYWORD,clubsim
+
+#香港证券
+DOMAIN-KEYWORD,longbridge,Pmhk
+DOMAIN-KEYWORD,futunn,Pmhk
+DOMAIN-KEYWORD,futuhk,Pmhk
+DOMAIN-KEYWORD,futuholdings,Pmhk
+DOMAIN-SUFFIX,itiger.com,Pmhk
+DOMAIN-SUFFIX,itigerup.com,Pmhk
+DOMAIN-SUFFIX,tigerbrokers.com,Pmhk
+DOMAIN-SUFFIX,tigerbrokers.com.hk,Pmhk
+DOMAIN-KEYWORD,itiger,Pmhk
+DOMAIN-KEYWORD,redteago,Pmhk
