@@ -15,13 +15,13 @@ DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-KEYWORD,clubsim
 
 #香港证券
-DOMAIN-KEYWORD,longbridge,Pmhk
-DOMAIN-KEYWORD,futunn,Pmhk
-DOMAIN-KEYWORD,futuhk,Pmhk
-DOMAIN-KEYWORD,futuholdings,Pmhk
-DOMAIN-SUFFIX,itiger.com,Pmhk
-DOMAIN-SUFFIX,itigerup.com,Pmhk
-DOMAIN-SUFFIX,tigerbrokers.com,Pmhk
-DOMAIN-SUFFIX,tigerbrokers.com.hk,Pmhk
-DOMAIN-KEYWORD,itiger,Pmhk
-DOMAIN-KEYWORD,redteago,Pmhk
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,futunn
+DOMAIN-KEYWORD,futuhk
+DOMAIN-KEYWORD,futuholdings
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,tigerbrokers.com.hk
+DOMAIN-KEYWORD,itiger
+DOMAIN-KEYWORD,redteago
