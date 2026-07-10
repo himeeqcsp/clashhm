@@ -1,17 +1,14 @@
-#hk bank
-
 #蜜蜂云汇
 DOMAIN-KEYWORD,feedov
 DOMAIN-SUFFIX,feedov.com
 DOMAIN-KEYWORD,xuzuan
 DOMAIN-KEYWORD,shangmeng
+
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,wise-sandbox.com
 DOMAIN-KEYWORD,starryblu
 
-DOMAIN-KEYWORD,bochk
-DOMAIN-SUFFIX,bochk.com
 DOMAIN-KEYWORD,airstarbank
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-KEYWORD,elebank
@@ -26,25 +23,3 @@ DOMAIN-KEYWORD,cncbinternational
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
-
-DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,payme.hsbc.com.hk
-DOMAIN-SUFFIX,business.hsbc.com.hk
-DOMAIN-SUFFIX,insurance.hsbc.com.hk
-DOMAIN-SUFFIX,mail.hsbc.com.hk
-DOMAIN-SUFFIX,ns11.hsbc.com.hk
-DOMAIN-SUFFIX,paymebiz.hsbc.com.hk
-DOMAIN-SUFFIX,campaign.payme.hsbc.com.hk
-DOMAIN-SUFFIX,cdnbc-logs.hsbc.com.hk
-DOMAIN-SUFFIX,cdnbc-wup.hsbc.com.hk
-DOMAIN-SUFFIX,cdntm.hsbc.com.hk
-DOMAIN-SUFFIX,api.p2g.netd2.hsbc.com.hk
-DOMAIN-SUFFIX,mobilex-static.hsbc.com.hk
-DOMAIN-SUFFIX,mauth-hk.hsbc.com.hk
-DOMAIN-SUFFIX,payme-api-secure.hsbc.com.hk
-DOMAIN-SUFFIX,rbwm-api.hsbc.com.hk
-DOMAIN-SUFFIX,webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
-DOMAIN-SUFFIX,wsit-api.hsbc.com.hk
-DOMAIN-SUFFIX,issthk.hsbc.com.hk
-DOMAIN-SUFFIX,isstprod.hsbc.com.hk
-
