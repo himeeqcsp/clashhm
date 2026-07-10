@@ -1,31 +1,5 @@
-# NAME: roblox,promail
-
-#roblox
-DOMAIN-SUFFIX,rbxcdn.com
-DOMAIN-KEYWORD,roblox
-USER-AGENT,Roblox*
-
-#protonmail
-DOMAIN-SUFFIX,pm.me
-DOMAIN-SUFFIX,proton.me
-DOMAIN-SUFFIX,protonmail.ch
-DOMAIN-SUFFIX,protonmail.com
-DOMAIN-SUFFIX,protonstatus.com
-
 DOMAIN-KEYWORD,clubsim
 DOMAIN-KEYWORD,redteago
 
-#香港证券
-DOMAIN-KEYWORD,longbridge
-DOMAIN-KEYWORD,futunn
-DOMAIN-KEYWORD,futuhk
-DOMAIN-KEYWORD,futuholdings
-DOMAIN-SUFFIX,itiger.com
-DOMAIN-SUFFIX,itigerup.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.com.hk
-DOMAIN-KEYWORD,itiger
-
-#机场
 DOMAIN-KEYWORD,gscloud
 DOMAIN-KEYWORD,mitce
