@@ -25,3 +25,7 @@ DOMAIN-SUFFIX,tigerbrokers.com
 DOMAIN-SUFFIX,tigerbrokers.com.hk
 DOMAIN-KEYWORD,itiger
 DOMAIN-KEYWORD,redteago
+
+#机场
+DOMAIN-KEYWORD,gscloud
+DOMAIN-KEYWORD,mitce
