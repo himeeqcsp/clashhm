@@ -2,3 +2,8 @@ DOMAIN-KEYWORD,dukascopy
 DOMAIN-KEYWORD,pbkrs
 DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,clubsim
+
+#kast
+DOMAIN-SUFFIX,kast.xyz
+DOMAIN-SUFFIX,kastapi.com
+kDOMAIN-SUFFIX,kastofficial.zendesk.com
