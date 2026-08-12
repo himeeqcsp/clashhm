@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,zajourney.com
 DOMAIN-KEYWORD,oyunfor
 
 #aws
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,awsbraket.com
 DOMAIN-SUFFIX,amazonses.com
