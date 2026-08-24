@@ -9,6 +9,10 @@ DOMAIN-KEYWORD,szbafyyy
 #美团小程序
 DOMAIN-SUFFIX,voipstunt.com
 
+#印度里拉礼品卡
+DOMAIN-KEYWORD,oyunfor
+
+#银行金融
 DOMAIN-KEYWORD,starryblu
 DOMAIN-KEYWORD,myfin
 DOMAIN-KEYWORD,airstarbank
@@ -25,8 +29,6 @@ DOMAIN-KEYWORD,cncbinternational
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
-
-DOMAIN-KEYWORD,oyunfor
 
 #aws
 DOMAIN-SUFFIX,amazon.com
